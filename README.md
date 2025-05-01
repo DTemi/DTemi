@@ -10,7 +10,7 @@
 
 <!-- TO DO: add more details about me later -->
 
-Hi, I'm Oluwadamilola. A Cloud and DevOps Engineer. You might recognize me as GitHub's behind-the-scenes builder making cloud look easy.
+Hi, I'm Oluwadamilola. You might recognize me as GitHub's behind-the-scenes builder making cloud look easy.
 
 
 <details open>

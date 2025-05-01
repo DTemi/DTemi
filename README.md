@@ -14,7 +14,8 @@ Hi, I'm Oluwadamilola. A Cloud and DevOps Engineer. You might recognize me as Gi
 
 
 <details open>
-<summary>Tools/Technologies</summary>
+<summary> Tools/Technologies </summary>
+
 
 | Category | Tools/Technologies |
 |:-----|:---------------|
@@ -22,7 +23,7 @@ Hi, I'm Oluwadamilola. A Cloud and DevOps Engineer. You might recognize me as Gi
 |Scripting|  Bash, Python             |
 |DevOps|  Docker, Kubernetes, GitHub Actions, CI/CD pipelines             |
 |Cloud|  AWS (EC2, S3, IAM, Lambda), Terraform, CloudFormation etc...             |
-|Cloud Security  | IAM, Security Groups, KMS, AWS Config, GuardDuty, Least Privilege, MFA           |
+|Cloud Security  | IAM, Security Groups, KMS, AWS Config, GuardDuty, Least Privilege, MFA      |
 |Monitoring|   Prometheus, Grafana, CloudWatch            |
 | AI & ML |  AI tools, AWS AI Services           |
 |Certifications|  AWS Cloud Practitioner, AI.  Next: Solutions Architect – Associate, RHCSA, RHCE             |
